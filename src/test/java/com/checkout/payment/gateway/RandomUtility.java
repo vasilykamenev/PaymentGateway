@@ -1,7 +1,6 @@
 package com.checkout.payment.gateway;
 
 import static org.apache.commons.lang3.RandomUtils.insecure;
-import static org.apache.commons.lang3.RandomUtils.nextInt;
 
 import com.checkout.payment.gateway.enums.PaymentStatus;
 import com.checkout.payment.gateway.model.bank.AuthorizedResponse;

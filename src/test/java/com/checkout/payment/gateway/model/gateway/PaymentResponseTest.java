@@ -8,9 +8,7 @@ import org.junit.jupiter.params.provider.EnumSource;
 
 import java.util.UUID;
 
-import static org.apache.commons.lang3.RandomStringUtils.randomNumeric;
 import static org.apache.commons.lang3.RandomUtils.insecure;
-import static org.apache.commons.lang3.RandomUtils.nextInt;
 import static org.junit.jupiter.api.Assertions.*;
 
 class PaymentResponseTest {
